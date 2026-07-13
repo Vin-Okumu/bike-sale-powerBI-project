@@ -12,7 +12,7 @@ This project aims to transform the company's transactional sales data into an in
 
 ### Repository Structure
 
-Bike-Sales-PowerBI-Project/
+    Bike-Sales-PowerBI-Project/
 
     │
     ├── 01_project_charter/
