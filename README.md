@@ -14,43 +14,43 @@ This project aims to transform the company's transactional sales data into an in
 
 Bike-Sales-PowerBI-Project/
 
-│
-├── 01_project_charter/
-│   └── project_charter.md
-│
-├── 02_business_requirements/
-│   └── business_requirement_document.pdf
-│
-├── 03_documentation/
-│   ├── Business Questions.md
-│   ├── Data Cleaning Report.md
-│   ├── Data Dictionary.md
-│   └── Insights.md
-│
-├── 04_data/
-│   └── data_audit/
-│       ├── data_audit_report.md
-│       ├── data_profile_summary.pdf
-│       └── data_quality_checklist.md
-│  
-│   ├── processed/
-│   └── raw/
-│       └── Quarter-One-Report-Workbook.xlsx
-│
-├── 05_reports/
-│   ├── Bike Sales Dashboard.pbix
-│   └── 
-
-├── 06_power_query/
-│
-├── 07_dax/
-│   └── Measures.md
-│
-├── 08_images/
-│
-├── LICENSE
-│
-└── README.md
+    │
+    ├── 01_project_charter/
+    │   └── project_charter.md
+    │
+    ├── 02_business_requirements/
+    │   └── business_requirement_document.pdf
+    │
+    ├── 03_documentation/
+    │   ├── Business Questions.md
+    │   ├── Data Cleaning Report.md
+    │   ├── Data Dictionary.md
+    │   └── Insights.md
+    │
+    ├── 04_data/
+    │   └── data_audit/
+    │       ├── data_audit_report.md
+    │       ├── data_profile_summary.pdf
+    │       └── data_quality_checklist.md
+    │  
+    │   ├── processed/
+    │   └── raw/
+    │       └── Quarter-One-Report-Workbook.xlsx
+    │
+    ├── 05_reports/
+    │   ├── Bike Sales Dashboard.pbix
+    │   └── 
+    │
+    ├── 06_power_query/
+    │
+    ├── 07_dax/
+    │   └── Measures.md
+    │
+    ├── 08_images/
+    │
+    ├── LICENSE
+    │
+    └── README.md
 
 
 ## Business Problem
