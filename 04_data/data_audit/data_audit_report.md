@@ -72,7 +72,10 @@ Here, we are essentially examining each variable to answer the question as to wh
 
 ## Missing Values
 
-Variable    Missing Count   Missing %   Action
+    Variable    |   Missing Count   |   Missing %   |   Action
+    ------------|-------------------|---------------|----------
+
+    
 
 
 
