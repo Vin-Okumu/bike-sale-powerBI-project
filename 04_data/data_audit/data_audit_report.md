@@ -19,7 +19,7 @@ The dataset contains transactional sales records for Star Bike (fictional) Bicyc
 Every variable documented
 
     Column                  | Description                               | Expected Data Type    | Business Purpose
-    -----------------------------------------------------------------------------------------------------------------
+    ----------------------- | :---------------------------------------- | :-------------------- | :---------------
     Product ID              | Unique product identifier                 | Number                | Primary key
     Product category Raw    | identifier of product category            | Text                  | Product descriptor
     Product category        | Refined identifier of product category    | Text                  | Operations
@@ -47,7 +47,7 @@ Every variable documented
 Here, we are essentially examining each variable to answer the question as to whether the variables are stored in their correct data types
 
     Variable                | Current Type  | Expected Type | Action
-    -----------------------------------------------------------------
+    ----------------------- | :------------ | :------------ | :-------
     Product ID              | General       | Text          | Convert
     Product Category Raw    | General       | Text          | Convert
     Product Category        | General       | Text          | Convert
