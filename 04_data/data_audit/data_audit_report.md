@@ -3,13 +3,13 @@
     Item                |   Description
     --------------------|---------------------------------
     Dataset Name        |   Quarter One Bike Sales Report
-    Source              |   Internal Sales System
-    Format              |   Microsoft Excel(.xlsx)
-    Reporting Period    |   Quarter 1
-    Number of Rows      |   245
-    Number of Columns   |   21
-    Date Audited        |   July 2026
-    Analyst             |   Vincent Okumu
+    Source              |           Internal Sales System
+    Format              |          Microsoft Excel(.xlsx)
+    Reporting Period    |                       Quarter 1
+    Number of Rows      |                             245
+    Number of Columns   |                              21
+    Date Audited        |                       July 2026
+    Analyst             |                   Vincent Okumu
     --------------------|----------------------------------
 
 ### Dataset Description
