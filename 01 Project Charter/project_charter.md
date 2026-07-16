@@ -82,10 +82,9 @@ This project will include:
 - DAX calculations
 - Interactive dashboard development
 - KPI development
-- Interactive filtering
 - Executive reporting
 - Customer analytics
-- Tac calculations
+- Tax calculations
 
 ## Success Criteria
 

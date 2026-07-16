@@ -73,6 +73,8 @@ Here, we are essentially examining each variable to answer the question as to wh
 
 ## Missing Values
 
+The dataset has no missing values from the fundamental fields. The only fields with missingness, are calculated columns, where functions will be used to fill. 
+
     Variable    |   Missing Count   |   Missing %   |   Action
     ------------|-------------------|---------------|----------
 

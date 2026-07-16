@@ -1,10 +1,12 @@
 ## Bike Sale Power BI Project
 
-Having completed its first quarter of operations, Star Bike (a fictional bicycle retailer) wants to understand its Q1 sales performance, profitability, customer purchasing behavior, tax liabilities, and operational efficiency in order to improve revenue and optimize sales operations.
+Having completed its first quarter of operations, Starter Bike (a fictional bicycle retailer) wants to understand its Q1 sales performance, profitability, customer purchasing behavior, tax liabilities, and operational efficiency in order to improve revenue and optimize sales operations.
 
-However, while operational data is collected, and available, management currently lacks a centralized reporting solution that transforms this raw information into meaningful business insights.
+However, despite having operational data readily available, the management still lacks a centralized reporting solution that transforms this raw information into meaningful business insights.
 
-Without an analytical dashboard, decision-makers spend considerable time compiling reports manually, making it difficult to identify revenue drivers, evaluate product performance, monitor operational efficiency, and estimate tax obligations. As the business grows, manual reporting becomes increasingly inefficient and prone to error.
+The executive is seeking a solution, an analytical dashboard, that will aid in decision-making by cutting the time decision-makers would spend compiling reports manually. The underlying requirement is to make it simpler to identify revenue drivers, evaluate product performance, monitor operational efficiency, and estimate tax obligations. 
+
+As the business is expecting to grow, manual reporting is expected to ultimately become increasingly inefficient and prone to error.
 
 ### Project Objective
 
@@ -15,19 +17,19 @@ This project aims to transform the company's transactional sales data into an in
     Bike-Sales-PowerBI-Project/
 
     │
-    ├── 01_project_charter/
+    ├── 01 Project Charter/
     │   └── project_charter.md
     │
-    ├── 02_business_requirements/
+    ├── 02 Business Requirements/
     │   └── business_requirement_document.pdf
     │
-    ├── 03_documentation/
+    ├── 03 Documentation/
     │   ├── Business Questions.md
     │   ├── Data Cleaning Report.md
     │   ├── Data Dictionary.md
     │   └── Insights.md
     │
-    ├── 04_data/
+    ├── 04 Data/
     │   └── data_audit/
     │       ├── data_audit_report.md
     │       ├── data_profile_summary.pdf
@@ -37,16 +39,16 @@ This project aims to transform the company's transactional sales data into an in
     │   └── raw/
     │       └── Quarter-One-Report-Workbook.xlsx
     │
-    ├── 05_reports/
+    ├── 05 Reports/
     │   ├── Bike Sales Dashboard.pbix
     │   └── 
     │
-    ├── 06_power_query/
+    ├── 06 Power Query/
     │
-    ├── 07_dax/
+    ├── 07 DAX/
     │   └── Measures.md
     │
-    ├── 08_images/
+    ├── 08 Images/
     │
     ├── LICENSE
     │
