@@ -2,7 +2,7 @@
 
 ## Background
 
-Star Bike (a fictional company) is a bicycle retailer that has completed its first quarter of operations. The company records transactional sales data, product information, pricing details, quantities sold, order status, and sales dates. While operational data is being collected, management currently lacks a centralized reporting solution that transforms this raw information into meaningful business insights.
+Starter Bike (a fictional company) is a bicycle retailer that has completed its first quarter of operations. The company records transactional sales data, product information, pricing details, quantities sold, order status, and sales dates. While operational data is being collected, management currently lacks a centralized reporting solution that transforms this raw information into meaningful business insights.
 
 Without an analytical dashboard, decision-makers spend considerable time compiling reports manually, making it difficult to identify revenue drivers, evaluate product performance, monitor operational efficiency, and estimate tax obligations. As the business grows, manual reporting becomes increasingly inefficient and prone to error.
 
