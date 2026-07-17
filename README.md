@@ -1,8 +1,9 @@
+# Starter Bike LLC Sales Analytics Dashboard
+
 <p align = "center">
-<img src = "08_Images/Cover/Project_Cover.png" width = "900" height = "300">
+<img src = "08_Images/Cover/Project_Cover.png" width = "1000" height = "350">
 </p>
 
-# Starter Bike LLC Sales Analytics Dashboard
 
 Having completed its first quarter of operations, Starter Bike (a fictional bicycle retailer) wants to understand its Q1 sales performance, profitability, customer purchasing behavior, tax liabilities, and operational efficiency in order to improve revenue and optimize sales operations.
 
