@@ -4,7 +4,7 @@
 
 ### Executive Summary
 
-Star Bike (a fictional bicycle company) requires a centralized analytics platform to monitor sales performance, customer purchasing patterns, payment preferences, operational efficiency, and statutory sales tax obligations.
+Starter Bike (a fictional bicycle company) requires a centralized analytics platform to monitor sales performance, customer payment preferences, operational efficiency, and statutory sales tax obligations.
 
 The proposed Power BI dashboard will consolidate transactional data into interactive visual reports that support executive decision making.
 
@@ -13,7 +13,6 @@ The proposed Power BI dashboard will consolidate transactional data into interac
 The dashboard should enable management to:
 
 - Monitor revenue growth.
-- Understand customer purchasing behavior.
 - Evaluate payment method preferences.
 - Monitor order fulfillment.
 - Track sales tax obligations.
@@ -35,11 +34,7 @@ For Customer Analytics, the system shall calculate:
 
 - Number of Customers
 - Revenue per Customer
-- Average Spend
-- Customer Lifetime Value (within the available period)
-- Repeat Purchase Rate
-- Customer Segmentation
-- Customer Revenue Ranking
+- Average Spend 
 
 For Payment Analytics, the system shall display:
 
@@ -138,6 +133,5 @@ Regarding Tax:
     --------------------|----------------------------------------------------------------------
     Executive Overview  |	High-level KPIs and business performance
     Sales Performance   |	Revenue, trends, categories, and products
-    Customer Insights   |	Demographics, segmentation, repeat purchases, customer value
     Payment & Orders    |	Payment methods, order status, fulfillment metrics
     Tax Analytics       |	Taxable sales, tax collected, effective tax rate, customer payments

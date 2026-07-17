@@ -9,7 +9,7 @@ Dashboard
 
 ## Analysis Charter
 
-Having completed its first quarter of operations, Starter Bike (a fictional bicycle retailer) wants to understand its Q1 sales performance, profitability, customer purchasing behavior, tax liabilities, and operational efficiency in order to improve revenue and optimize sales operations.
+Having completed its first quarter of operations for the second year running, Starter Bike LLC (a fictional bicycle retailer) wants to understand its Q1 sales performance, profitability, customer purchasing behavior, tax liabilities, and operational efficiency in order to improve revenue and optimize sales operations.
 
 However, despite having operational data readily available, the management still lacks a centralized reporting solution that transforms this raw information into meaningful business insights.
 
@@ -80,7 +80,7 @@ Management cannot easily answer critical operational questions such as:
 - Which orders are successfully completed versus cancelled?
 - Where are operational inefficiencies occurring?
 
-However, without these insights, management risks making decisions based on assumptions rather than evidence.
+Without these insights, management risks making decisions based on assumptions rather than evidence.
 
 ## Project Goal
 
@@ -108,7 +108,6 @@ The dashboard is, therefore, intended to enable management to monitor:
 
 ### Tax Analysis
 - Calculate tax liability.
-- Identify taxable transactions.
 - Determine net revenue after tax.
 - Measure tax contribution by product and category.
 
@@ -118,5 +117,4 @@ Provide an interactive dashboard allowing executives to filter results by:
 
 - Date
 - Product Category
-- Product
 - Order Status

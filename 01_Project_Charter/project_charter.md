@@ -2,11 +2,11 @@
 
 ## Background
 
-Starter Bike (a fictional company) is a bicycle retailer that has completed its first quarter of operations. The company records transactional sales data, product information, pricing details, quantities sold, order status, and sales dates. While operational data is being collected, management currently lacks a centralized reporting solution that transforms this raw information into meaningful business insights.
+Starter Bike LLC (a fictional company) is a bicycle retailer that sells various types of bicycles to its emerging consumer niche. Having just completed its first quarter of operations for the second year running, the executive wants to utilize recorded transactional sales data, product information, pricing details, quantities sold, order status, and sales dates to design a data-driven sales drive. While operational data is readily available, the management still lacks a centralized reporting solution that can transform this raw information into meaningful business insights.
 
-Without an analytical dashboard, decision-makers spend considerable time compiling reports manually, making it difficult to identify revenue drivers, evaluate product performance, monitor operational efficiency, and estimate tax obligations. As the business grows, manual reporting becomes increasingly inefficient and prone to error.
+The company executives believe that an analytical dashboard can help decision-makers spend considerablly less time compiling reports manually, making it a little simpler to identify revenue drivers, evaluate product performance, monitor operational efficiency, and estimate tax obligations. 
 
-This project aims to transform the company's transactional sales data into an interactive Business Intelligence solution using Microsoft Power BI.
+Therefore, this project is intended to transform the company's transactional sales data into an interactive Business Intelligence solution using Microsoft Power BI.
 
 ## Business Problem
 
@@ -23,17 +23,17 @@ Management cannot easily answer critical operational questions such as:
 - Which orders are successfully completed versus cancelled?
 - Where are operational inefficiencies occurring?
 
-However, without these insights, management risks making decisions based on assumptions rather than evidence.
+Without these insights, management risks making decisions based on assumptions rather than evidence.
 
 ## Business Context
 
 The company operates under the following tax rule:
 
-Any individual sale whose value exceeds $2,000 attracts a 5% tax, payable by the company to the Internal Revenue Service (IRS). This tax is treated as a business expense and added to the sales. Sales valued at $2,000 or below are exempt from this tax.
+Any individual sale order whose value exceeds $2,000 attracts a 5% tax, payable by the company to the Internal Revenue Service (IRS). This tax is treated as a business expense and added to the sales. Sales valued at $2,000 or below are exempt from this tax.
 
 ## Project Goal
 
-To design and develop an interactive Power BI dashboard that enables management to monitor sales performance, product performance, operational efficiency, and tax obligations while supporting evidence-based business decision-making.
+To design and develop an interactive Power BI dashboard that will enable management to monitor sales performance, product performance, operational efficiency, and tax obligations while supporting evidence-based business decision-making.
 
 ## Project Objectives
 
@@ -59,7 +59,6 @@ The dashboard will enable management to monitor:
 
 ### Tax Analysis
 - Calculate tax liability.
-- Identify taxable transactions.
 - Determine net revenue after tax.
 - Measure tax contribution by product and category.
 
@@ -69,7 +68,6 @@ Provide an interactive dashboard allowing executives to filter results by:
 
 - Date
 - Product Category
-- Product
 - Order Status
 
 ## Scope
@@ -83,7 +81,6 @@ This project will include:
 - Interactive dashboard development
 - KPI development
 - Executive reporting
-- Customer analytics
 - Tax calculations
 
 ## Success Criteria
@@ -116,7 +113,7 @@ The project will be considered successful if it delivers:
 - Duplicate orders: Mitigated by duplicate detection
 - Incorrect data types: Mitigated by data validation
 - Inconsistent customer information: Mitigated by standardization
-- Tax calculation errors: Mitigated by validation agaist business rules
+- Tax calculation errors: Mitigated by validation against business rules
 
 ## Assumption
 
@@ -132,4 +129,4 @@ Sales Tax Rule
 
 If an order value is greater than $2000, then the sales tax is 5%. Otherwise the sales tax is 0%
 
-The tax is imposed on teh customer but does not constitute company revenue as it is remitted to the IRS by the company. Therefore, customer payment constitutes.
+The tax is imposed on the customer but does not constitute company revenue as it is remitted to the IRS by the company.
