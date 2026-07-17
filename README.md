@@ -1,4 +1,7 @@
-# Starter Bike LLC Sales Analytics Dashboard
+<h1 align = "center"> 
+Starter Bike LLC Sales Analytics <br>
+Dashboard
+</h1>
 
 <p align = "center">
 <img src = "08_Images/Cover/Project_Cover.png" width = "1000" height = "350">
