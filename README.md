@@ -132,7 +132,7 @@ Displays:
     Total revenue by payment method,  Total revenue by product category.
 
 <p align = "center">
-<img src = "08_Images/Dashboard/Executive_Overview.png" width = "1000" height = "400">
+<img src = "08_Images/Dashboard/Executive_Overview.png" width = "1000" height = "450">
 </p>
 
 <h2 align = "center"> 
@@ -147,7 +147,7 @@ Displays:
     Profitability by category
 
 <p align = "center">
-<img src = "08_Images/Dashboard/Product_Performance.png" width = "1000" height = "400">
+<img src = "08_Images/Dashboard/Product_Performance.png" width = "1000" height = "450">
 </p>
 
 <h2 align = "center"> 
@@ -163,7 +163,7 @@ Reports on:
 
 
 <p align = "center">
-<img src = "08_Images/Dashboard/Operational_Performance.png" width = "1000" height = "400">
+<img src = "08_Images/Dashboard/OPerational_Performance.png" width = "1000" height = "450">
 </p>
 
 <h2 align = "center"> 
@@ -177,6 +177,6 @@ Reports on:
     Tax due as a proportion of revenue generated
 
 <p align = "center">
-<img src = "08_Images/Dashboard/Tax_Obligation.png" width = "1000" height = "400">
+<img src = "08_Images/Dashboard/Tax_Obligation.png" width = "1000" height = "450">
 </p>
 
