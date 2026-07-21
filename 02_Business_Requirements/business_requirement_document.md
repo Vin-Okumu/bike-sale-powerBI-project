@@ -1,6 +1,7 @@
 <h1 align = "center"> 
 Bike Sales Analytics Dashboard <br>
-Document (BRD)
+Business Requirements Document <br>
+(BRD)
 </h1>
 
 <p align = "center">
