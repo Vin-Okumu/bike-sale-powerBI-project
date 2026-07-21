@@ -7,21 +7,23 @@ Dashboard
 <img src = "08_Images/Cover/Project_Cover.png" width = "1000" height = "350">
 </p>
 
-## Analysis Charter
+## Background
 
-Having completed its first quarter of operations for the second year running, Starter Bike LLC (a fictional bicycle retailer) wants to understand its Q1 sales performance, profitability, customer purchasing behavior, tax liabilities, and operational efficiency in order to improve revenue and optimize sales operations.
+In the quest to understand Q1 sales performance and trends, Starter Bike LLC, a fictional bicycle retailer, is looking to obtain insights from its Q1 operations over the past years. Company executives believe that data from the 2022 and 2023 Q1 sales can provide some critical insights into how the company performs during the first quarter of each financial year. They believe that, with proper analytics, the company can efficiently track essential performance indicators, including, but not limited to, product performance, profitability, tax liabilities, and operational efficiency, which can then inspire the company to optimize sales operations and improve revenue generation. 
 
-However, despite having operational data readily available, the management still lacks a centralized reporting solution that transforms this raw information into meaningful business insights.
+The 2022 and 2023 Q1 sales operation data has been successfully consolidated and readily available. However, despite having operational data readily available, the management still lacks a centralized reporting solution that transforms this raw information into meaningful business insights.
 
-The executive is seeking a solution, an analytical dashboard, that will aid in decision-making by cutting the time decision-makers would spend compiling reports manually. The underlying requirement is to make it simpler to identify revenue drivers, evaluate product performance, monitor operational efficiency, and estimate tax obligations. 
+In seeking a working solution, company executives have asked for an analytical dashboard that will aid in decision-making by cutting the time decision-makers would spend compiling reports manually. The underlying need is to make it simpler to identify revenue drivers, evaluate product performance, monitor operational efficiency, and estimate tax obligations. 
 
-As the business is expecting to grow, manual reporting is expected to ultimately become increasingly inefficient and prone to error.
+The executives forsee that as the business is destined to scale, manual reporting will soon become increasingly inefficient particularly since it's prone to error.
 
 ### Project Objective
 
 This project aims to transform the company's transactional sales data into an interactive Business Intelligence solution using Microsoft Power BI.
 
 ### Repository Structure
+
+Below is the structure proposed as ideal for representing the data analysis process, from transforming the raw data to developing the final dashboard. This is an equivalent of the structure that the project reports are stored in github repository for reproducibility.
 
     Bike-Sales-PowerBI-Project/
 
@@ -67,54 +69,52 @@ This project aims to transform the company's transactional sales data into an in
 
 ## Business Problem
 
-The company generates sales every day but lacks visibility into its overall business performance.
+Starter Bike LLC, has generated sales every day but lacks visibility into its overall business performance.
 
-Management cannot easily answer critical operational questions such as:
+Company executives say it still takes effort to answer critical operational questions such as:
 
-- How much revenue has been generated?
 - Which products contribute the most to revenue?
 - Which product categories are the most profitable?
-- How much tax liability has the business incurred?
+- How much tax liability does the business incur?
 - Which products trigger the highest tax expense?
 - How are sales changing over time?
 - Which orders are successfully completed versus cancelled?
 - Where are operational inefficiencies occurring?
 
-Without these insights, management risks making decisions based on assumptions rather than evidence.
+Without these insights, company executives believe there is a relatively substantial risk of making decisions based on assumptions rather than evidence.
 
 ## Project Goal
 
-To design and develop an interactive Power BI dashboard that enables management to monitor sales performance, product performance, operational efficiency, and tax obligations while supporting evidence-based business decision-making.
+As the assigned analyst, the goal of this project is to design and develop an interactive Power BI dashboard that can enable Starter Bike LLC executives to monitor sales performance, product performance, operational efficiency, and tax obligations to support evidence-based business decision-making.
 
 The dashboard is, therefore, intended to enable management to monitor:
 
 ### Sales Performance
-- Measure total revenue generated.
-- Monitor sales trends over time.
-- Evaluate average order value.
-- Track order volumes.
+- Total revenue generated.
+- Sales trends over time.
+- Order value.
+- Order volumes.
 
 ### Product Performance
-- Identify top-performing products.
-- Compare product categories.
-- Measure product profitability.
-- Analyze product contribution to total revenue.
+- Top-performing products.
+- Similarities and differences in product categories.
+- Product profitability.
+- Product contribution to total revenue.
 
 ### Operational Performance
-- Monitor order status distribution.
-- Identify cancelled orders.
-- Evaluate operational efficiency.
-- Highlight products associated with higher cancellation levels.
+- Order status distribution.
+- Risk of order cancellation.
+- Operational efficiency.
+- Products with high risk of cancellation.
 
 ### Tax Analysis
-- Calculate tax liability.
-- Determine net revenue after tax.
-- Measure tax contribution by product and category.
+- Tax liability.
+- Tax contribution by product and category.
 
 ### Executive Reporting
 
 Provide an interactive dashboard allowing executives to filter results by:
 
-- Date
+- Year, Month or Date
 - Product Category
 - Order Status
