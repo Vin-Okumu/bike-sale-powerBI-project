@@ -5,7 +5,7 @@ Business Requirements Document <br>
 </h1>
 
 <p align = "center">
-<img src = ".../08_Images/Cover/Project_Cover.png" width = "1000" height = "350">
+<img src = "../08_Images/Cover/Project_Cover.png" width = "1000" height = "350">
 </p>
 
 
