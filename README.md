@@ -118,3 +118,37 @@ Provide an interactive dashboard allowing executives to filter results by:
 - Year, Month or Date
 - Product Category
 - Order Status
+
+## Power BI Report Interface
+
+<h1 align = "center"> 
+Page 1: Executive Overview
+</h1>
+
+<p align = "center">
+<img src = "08_Images/Dashboard/Executive_Overview.png" width = "1000" height = "350">
+</p>
+
+<h1 align = "center"> 
+Page 2: Operational Performance
+</h1>
+
+<p align = "center">
+<img src = "08_Images/Dashboard/Operational_Performance.png" width = "1000" height = "350">
+</p>
+
+<h1 align = "center"> 
+Page 3: Product_Performance
+</h1>
+
+<p align = "center">
+<img src = "08_Images/Dashboard/Product_Performance.png" width = "1000" height = "350">
+</p>
+
+<h1 align = "center"> 
+Page 4: Tax_Obligation
+</h1>
+
+<p align = "center">
+<img src = "08_Images/Dashboard/Tax_Obligation.png" width = "1000" height = "350">
+</p>
